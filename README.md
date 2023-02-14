@@ -1,0 +1,2 @@
+# laravel_inertia_react_typescript
+サンプルCRUD（日本語化済）
